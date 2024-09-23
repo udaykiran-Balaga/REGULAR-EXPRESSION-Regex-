@@ -1,4 +1,4 @@
-# REGULAR-EXPERSSION-Regex
+# REGULAR-EXPRESSION-Regex
 
 Regular expressions, commonly known as regex, are sequences of characters that form search patterns. They are often used for string matching, search, and text processing tasks such as validation and extraction.
 
